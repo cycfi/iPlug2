@@ -609,7 +609,6 @@ void IGraphicsSkia::RenderPath(SkPaint& paint)
     SkPath path;
     mMainPath.transform(invMatrix, &path);
     mCanvas->drawPath(path, paint);
-    mCanvas->drawPath(mMainPath, paint);
   }
   else
   {
