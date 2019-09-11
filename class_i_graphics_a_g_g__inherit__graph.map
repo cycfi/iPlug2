@@ -1,0 +1,4 @@
+<map id="IGraphicsAGG" name="IGraphicsAGG">
+<area shape="rect" id="node2" href="$class_i_graphics_path_base.html" title="A base class to share implementations of IGraphics.h functionality across different path based graphi..." alt="" coords="5,80,147,107"/>
+<area shape="rect" id="node3" href="$class_i_graphics.html" title="The lowest level base class of an IGraphics context. " alt="" coords="35,5,117,32"/>
+</map>

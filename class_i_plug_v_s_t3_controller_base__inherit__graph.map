@@ -1,0 +1,4 @@
+<map id="IPlugVST3ControllerBase" name="IPlugVST3ControllerBase">
+<area shape="rect" id="node2" href="$class_i_plug_v_s_t3.html" title="VST3 base class for a non&#45;distributed IPlug VST3 plug&#45;in. " alt="" coords="5,80,91,107"/>
+<area shape="rect" id="node3" href="$class_i_plug_v_s_t3_controller.html" title="VST3 Controller API&#45;base class for a distributed IPlug VST3 plug&#45;in. " alt="" coords="115,80,261,107"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="IPlugProcessor" name="IPlugProcessor">
+<area shape="rect" id="node2" href="$class_i_plug_a_a_x.html" title="AAX API base class for an IPlug plug&#45;in. " alt="" coords="5,80,84,107"/>
+<area shape="rect" id="node3" href="$class_i_plug_a_p_p.html" title="Standalone application base class for an IPlug plug&#45;in. " alt="" coords="109,80,186,107"/>
+<area shape="rect" id="node4" href="$class_i_plug_a_u.html" title="AudioUnit v2 API base class for an IPlug plug&#45;in. " alt="" coords="211,80,281,107"/>
+<area shape="rect" id="node5" href="$class_i_plug_v_s_t2.html" title="VST2.4 API base class for an IPlug plug&#45;in. " alt="" coords="306,80,391,107"/>
+<area shape="rect" id="node7" href="$class_i_plug_v_s_t3_processor_base.html" title="Shared VST3 processor code. " alt="" coords="416,80,596,107"/>
+<area shape="rect" id="node10" href="$class_i_plug_w_a_m.html" title="WebAudioModule (WAM) API base class. " alt="" coords="621,80,703,107"/>
+<area shape="rect" id="node6" href="$class_i_plug_reaper_v_s_t2.html" title="Reaper specific VST2.4 API base class for an IPlug plug&#45;in. " alt="" coords="284,155,413,181"/>
+<area shape="rect" id="node8" href="$class_i_plug_v_s_t3.html" title="VST3 base class for a non&#45;distributed IPlug VST3 plug&#45;in. " alt="" coords="450,155,535,181"/>
+<area shape="rect" id="node9" href="$class_i_plug_v_s_t3_processor.html" title="VST3 Processor API&#45;base class for a distributed IPlug VST3 plug&#45;in. " alt="" coords="560,155,708,181"/>
+</map>

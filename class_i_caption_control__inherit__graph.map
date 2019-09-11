@@ -1,0 +1,4 @@
+<map id="ICaptionControl" name="ICaptionControl">
+<area shape="rect" id="node2" href="$class_i_text_control.html" title="A basic control to display some text. " alt="" coords="17,80,113,107"/>
+<area shape="rect" id="node3" href="$class_i_control.html" title="The lowest level base class of an IGraphics control. " alt="" coords="30,5,101,32"/>
+</map>

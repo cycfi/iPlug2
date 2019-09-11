@@ -1,0 +1,5 @@
+<map id="IVMeterControl&lt; MAXNC, QUEUE_SIZE &gt;" name="IVMeterControl&lt; MAXNC, QUEUE_SIZE &gt;">
+<area shape="rect" id="node2" href="$class_i_v_track_control_base.html" title="A base class for mult&#45;strip/track controls, such as multi&#45;sliders, meters. " alt="" coords="25,80,169,107"/>
+<area shape="rect" id="node3" href="$class_i_control.html" title="The lowest level base class of an IGraphics control. " alt="" coords="7,5,77,32"/>
+<area shape="rect" id="node4" href="$class_i_vector_base.html" title="A base interface to be combined with IControl for vectorial controls &quot;IVControls&quot;, in order for them to share a common style If you need more flexibility, you&#39;re on your own! " alt="" coords="102,5,201,32"/>
+</map>

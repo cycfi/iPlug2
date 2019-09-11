@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$struct_i_param_1_1_shape.html" title="Base struct for parameter shaping. " alt="" coords="5,56,120,83"/>
+<area shape="rect" id="node2" href="$struct_i_param_1_1_shape_exp.html" title="Exponential parameter shaping. " alt="" coords="187,5,326,32"/>
+<area shape="rect" id="node3" href="$struct_i_param_1_1_shape_linear.html" title="Linear parameter shaping. " alt="" coords="179,56,334,83"/>
+<area shape="rect" id="node4" href="$struct_i_param_1_1_shape_pow_curve.html" title="PowCurve parameter shaping. " alt="" coords="168,107,345,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="IVScopeControl&lt; MAXNC, MAXBUF, QUEUE_SIZE &gt;" name="IVScopeControl&lt; MAXNC, MAXBUF, QUEUE_SIZE &gt;">
+<area shape="rect" id="node2" href="$class_i_control.html" title="The lowest level base class of an IGraphics control. " alt="" coords="9,5,79,32"/>
+<area shape="rect" id="node3" href="$class_i_vector_base.html" title="A base interface to be combined with IControl for vectorial controls &quot;IVControls&quot;, in order for them to share a common style If you need more flexibility, you&#39;re on your own! " alt="" coords="104,5,203,32"/>
+</map>

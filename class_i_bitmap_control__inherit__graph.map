@@ -1,0 +1,4 @@
+<map id="IBitmapControl" name="IBitmapControl">
+<area shape="rect" id="node2" href="$class_i_control.html" title="The lowest level base class of an IGraphics control. " alt="" coords="5,5,76,32"/>
+<area shape="rect" id="node3" href="$class_i_bitmap_base.html" title="A base interface, to be combined with IControl for bitmap&#45;based controls &quot;IBControls&quot;, managing an IBitmap and IBlend. " alt="" coords="100,5,203,32"/>
+</map>

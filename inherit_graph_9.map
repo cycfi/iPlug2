@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_i_editor_delegate.html" title="This pure virtual interface delegates communication in both directions between a UI editor and someth..." alt="" coords="5,5,125,32"/>
+<area shape="rect" id="node2" href="$class_i_g_editor_delegate.html" title="An editor delegate base class for a SOMETHING that uses IGraphics for it&#39;s UI. " alt="" coords="173,5,304,32"/>
+</map>

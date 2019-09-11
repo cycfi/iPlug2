@@ -1,0 +1,5 @@
+<map id="IVButtonControl" name="IVButtonControl">
+<area shape="rect" id="node2" href="$class_i_button_control_base.html" title="A base class for buttons/momentary switches &#45; cannot be linked to parameters. " alt="" coords="5,80,152,107"/>
+<area shape="rect" id="node3" href="$class_i_control.html" title="The lowest level base class of an IGraphics control. " alt="" coords="43,5,114,32"/>
+<area shape="rect" id="node4" href="$class_i_vector_base.html" title="A base interface to be combined with IControl for vectorial controls &quot;IVControls&quot;, in order for them to share a common style If you need more flexibility, you&#39;re on your own! " alt="" coords="176,80,275,107"/>
+</map>

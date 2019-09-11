@@ -1,0 +1,7 @@
+<map id="IVTrackControlBase" name="IVTrackControlBase">
+<area shape="rect" id="node4" href="$class_i_v_meter_control.html" title="Vectorial multichannel capable meter control. " alt="" coords="344,5,527,47"/>
+<area shape="rect" id="node5" href="$class_i_v_multi_slider_control.html" title="A vectorial multi&#45;slider control. " alt="" coords="362,71,509,112"/>
+<area shape="rect" id="node6" href="$class_i_v_range_slider_control.html" title="IVRangeSliderControl" alt="" coords="357,137,513,163"/>
+<area shape="rect" id="node2" href="$class_i_control.html" title="The lowest level base class of an IGraphics control. " alt="" coords="19,53,90,79"/>
+<area shape="rect" id="node3" href="$class_i_vector_base.html" title="A base interface to be combined with IControl for vectorial controls &quot;IVControls&quot;, in order for them to share a common style If you need more flexibility, you&#39;re on your own! " alt="" coords="5,103,104,130"/>
+</map>

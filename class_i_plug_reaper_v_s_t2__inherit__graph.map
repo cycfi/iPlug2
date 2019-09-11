@@ -1,0 +1,6 @@
+<map id="IPlugReaperVST2" name="IPlugReaperVST2">
+<area shape="rect" id="node2" href="$class_i_plug_v_s_t2.html" title="VST2.4 API base class for an IPlug plug&#45;in. " alt="" coords="125,229,210,256"/>
+<area shape="rect" id="node3" href="$class_i_plug_a_p_i_base.html" title="The base class of an IPlug plug&#45;in, which interacts with the different plug&#45;in APIs. " alt="" coords="49,155,153,181"/>
+<area shape="rect" id="node4" href="$class_i_plugin_base.html" title="Base class that contains plug&#45;in info and state manipulation methods. " alt="" coords="53,80,148,107"/>
+<area shape="rect" id="node6" href="$class_i_plug_processor.html" title="The base class for IPlug Audio Processing. " alt="" coords="177,155,291,181"/>
+</map>

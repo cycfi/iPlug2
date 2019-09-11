@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$struct_i_byte_getter.html" title="A helper class for IByteChunk and IByteStream that avoids code duplication. " alt="" coords="5,31,100,57"/>
+<area shape="rect" id="node2" href="$class_i_byte_chunk.html" title="Manages a block of memory, for plug&#45;in settings store/recall. " alt="" coords="152,5,247,32"/>
+<area shape="rect" id="node3" href="$class_i_byte_stream.html" title="Manages a non&#45;owned block of memory, for receiving arbitrary message byte streams. " alt="" coords="148,56,251,83"/>
+</map>

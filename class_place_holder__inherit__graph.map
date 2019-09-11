@@ -1,0 +1,4 @@
+<map id="PlaceHolder" name="PlaceHolder">
+<area shape="rect" id="node2" href="$class_i_text_control.html" title="A basic control to display some text. " alt="" coords="7,80,103,107"/>
+<area shape="rect" id="node3" href="$class_i_control.html" title="The lowest level base class of an IGraphics control. " alt="" coords="19,5,90,32"/>
+</map>

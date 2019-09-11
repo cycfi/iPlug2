@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$class_i_graphics_i_o_s.html" title="IGraphics platform class for IOS. " alt="" coords="242,5,345,32"/>
+<area shape="rect" id="node3" href="$class_i_graphics_linux.html" title="IGraphics platform class for linux. " alt="" coords="236,56,351,83"/>
+<area shape="rect" id="node4" href="$class_i_graphics_mac.html" title="IGraphics platform class for macOS. " alt="" coords="240,107,347,133"/>
+<area shape="rect" id="node5" href="$class_i_graphics_web.html" title="IGraphics platform class for the web. " alt="" coords="240,157,347,184"/>
+<area shape="rect" id="node6" href="$class_i_graphics_win.html" title="IGraphics platform class for Windows. " alt="" coords="242,208,345,235"/>
+</map>

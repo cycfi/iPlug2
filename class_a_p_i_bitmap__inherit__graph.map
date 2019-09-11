@@ -1,0 +1,8 @@
+<map id="APIBitmap" name="APIBitmap">
+<area shape="rect" id="node2" href="$class_i_graphics_a_g_g_1_1_bitmap.html" title="IGraphicsAGG::Bitmap" alt="" coords="153,5,317,32"/>
+<area shape="rect" id="node3" href="$class_i_graphics_cairo_1_1_bitmap.html" title="IGraphicsCairo::Bitmap" alt="" coords="151,56,319,83"/>
+<area shape="rect" id="node4" href="$class_i_graphics_canvas_1_1_bitmap.html" title="IGraphicsCanvas::Bitmap" alt="" coords="144,107,327,133"/>
+<area shape="rect" id="node5" href="$class_i_graphics_lice_1_1_bitmap.html" title="IGraphicsLice::Bitmap" alt="" coords="155,157,315,184"/>
+<area shape="rect" id="node6" href="$class_i_graphics_nano_v_g_1_1_bitmap.html" title="IGraphicsNanoVG::Bitmap" alt="" coords="141,208,329,235"/>
+<area shape="rect" id="node7" href="$class_i_graphics_skia_1_1_bitmap.html" title="IGraphicsSkia::Bitmap" alt="" coords="154,259,317,285"/>
+</map>

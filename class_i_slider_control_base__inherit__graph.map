@@ -1,0 +1,5 @@
+<map id="ISliderControlBase" name="ISliderControlBase">
+<area shape="rect" id="node3" href="$class_i_b_slider_control.html" title="A bitmap slider/fader control. " alt="" coords="5,155,121,181"/>
+<area shape="rect" id="node4" href="$class_i_v_slider_control.html" title="A vector slider control. " alt="" coords="145,155,261,181"/>
+<area shape="rect" id="node2" href="$class_i_control.html" title="The lowest level base class of an IGraphics control. " alt="" coords="97,5,168,32"/>
+</map>

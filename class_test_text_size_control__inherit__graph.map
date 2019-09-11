@@ -1,0 +1,4 @@
+<map id="TestTextSizeControl" name="TestTextSizeControl">
+<area shape="rect" id="node2" href="$class_i_knob_control_base.html" title="A base class for knob/dial controls, to handle mouse action and Sender. " alt="" coords="11,80,145,107"/>
+<area shape="rect" id="node3" href="$class_i_control.html" title="The lowest level base class of an IGraphics control. " alt="" coords="43,5,113,32"/>
+</map>
