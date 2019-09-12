@@ -18,9 +18,9 @@
 #include <string>
 #include <map>
 
-#if defined OS_IOS
+// $$$ JDG: #if defined OS_IOS
 #import <Foundation/Foundation.h>
-#endif
+// $$$ JDG: #endif
 
 #ifdef IGRAPHICS_METAL
 extern std::map<std::string, void*> gTextureMap;
